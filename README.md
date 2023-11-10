@@ -10,6 +10,8 @@ npm install
 
 Para executar a aplicação, basta inserir o seguinte comando.
 
+Certifique-se de rodar primeiro a aplicação quiz-api antes de rodar essa aplicação.
+
 ```bash
 npm run dev
 ```
